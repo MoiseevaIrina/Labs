@@ -1,0 +1,15 @@
+c:\users\dasha\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+c:\users\dasha\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+c:\users\dasha\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+c:\users\dasha\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+c:\users\dasha\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+c:\users\dasha\documents\visual studio 2015\Projects\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.pdb
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.csprojResolveAssemblyReference.cache
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laba3_RVIP\ConsoleApplication3\ConsoleApplication3\bin\Debug\ConsoleApplication3.exe.config
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laba3_RVIP\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.exe
+D:\Руся\Учёба\4 курс\РВИП Романов Антон Алексеевич\Laba3_RVIP\ConsoleApplication3\ConsoleApplication3\obj\Debug\ConsoleApplication3.pdb
